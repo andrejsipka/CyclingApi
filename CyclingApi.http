@@ -1,0 +1,6 @@
+@CyclingApi_HostAddress = http://localhost:5225
+
+GET {{CyclingApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
